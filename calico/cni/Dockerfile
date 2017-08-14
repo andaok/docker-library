@@ -1,2 +1,2 @@
-FROM quay.io/calico/cni:v1.9.1
+FROM calico/cni:v1.7.0
 MAINTAINER kevinguo "chinakevinguo@live.com"

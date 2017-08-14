@@ -1,2 +1,2 @@
-FROM quay.io/coreos/etcd:3.0.17
+FROM andyshinn/dnsmasq:2.72
 MAINTAINER kevinguo "chinakevinguo@live.com"

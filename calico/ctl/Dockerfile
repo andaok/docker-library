@@ -1,2 +1,2 @@
-FROM quay.io/coreos/etcd:3.0.17
+FROM calico/ctl:v1.1.3
 MAINTAINER kevinguo "chinakevinguo@live.com"

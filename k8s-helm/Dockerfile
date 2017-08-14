@@ -1,2 +1,2 @@
-FROM quay.io/coreos/etcd:3.0.17
+FROM lachlanevenson/k8s-helm:v2.2.2
 MAINTAINER kevinguo "chinakevinguo@live.com"

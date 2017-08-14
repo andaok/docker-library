@@ -1,2 +1,2 @@
-FROM quay.io/coreos/etcd:3.0.17
+FROM nginx:1.11.4-alpine
 MAINTAINER kevinguo "chinakevinguo@live.com"
