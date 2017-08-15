@@ -1,2 +1,2 @@
-FROM calico/kube-policy-controller:v0.5.4
+FROM calico/node:v2.4.1
 MAINTAINER kevinguo "chinakevinguo@live.com"
